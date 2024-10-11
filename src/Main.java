@@ -9,6 +9,7 @@ public class Main {
         System.out.printf("tomorrow mock2");
         System.out.print("accenture interview");
         System.out.print("Maanadu");
+        System.out.print("vikravandi");
 
 
         for (int i = 1; i <= 5; i++) {
